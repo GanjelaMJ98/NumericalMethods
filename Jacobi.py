@@ -3,7 +3,7 @@
 import numpy as np
 import math as m
 
-EPS = 0.01
+EPS = 0.001
 A = np.array ([[5, 5, 3], [5, -4, 1], [3, 1, 2]], "f")
 iter = 0
 while(1):
